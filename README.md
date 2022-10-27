@@ -1,6 +1,6 @@
 #sobre mim
 
-meu email de contato é estudante.alura@gmail.com.br
+meu email de contato é marisa.jendruszczak@escola.pr.gov.br
 - 👋 ola meu nome é @marisadanieli
 - 👀 eu estou interessado em aprender novas linguagens
 - 🌱 e estou aprendendo a programar recentemente a linguagem de javaSkriptch e Sracht
